@@ -1,0 +1,11 @@
+@SchoolManagement.Api_HostAddress = http://localhost:5021
+
+GET {{SchoolManagement.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{SchoolManagement.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,17 @@
+c:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\bin\Debug\net11.0\SchoolManagement.Service.deps.json
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\bin\Debug\net11.0\SchoolManagement.Service.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\bin\Debug\net11.0\SchoolManagement.Service.pdb
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\bin\Debug\net11.0\SchoolManagement.Data.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\bin\Debug\net11.0\SchoolManagement.Infrastructure.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\bin\Debug\net11.0\SchoolManagement.Data.pdb
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\bin\Debug\net11.0\SchoolManagement.Infrastructure.pdb
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\SchoolManagement.Service.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\SchoolManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\SchoolManagement.Service.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\SchoolManagement.Service.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\SchoolManagement.Service.csproj.CoreCompileInputs.cache
+c:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\SchoolMa.A89976EE.Up2Date
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\SchoolManagement.Service.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\refint\SchoolManagement.Service.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\SchoolManagement.Service.pdb
+c:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Service\obj\Debug\net11.0\ref\SchoolManagement.Service.dll

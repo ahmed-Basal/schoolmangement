@@ -1,0 +1,13 @@
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\bin\Debug\net11.0\SchoolManagement.Data.deps.json
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\bin\Debug\net11.0\SchoolManagement.Data.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\bin\Debug\net11.0\SchoolManagement.Data.pdb
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\SchoolManagement.Data.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\SchoolManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\SchoolManagement.Data.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\SchoolManagement.Data.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\SchoolManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\SchoolManagement.Data.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\refint\SchoolManagement.Data.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\SchoolManagement.Data.pdb
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\ref\SchoolManagement.Data.dll
+C:\Users\ahmed\OneDrive\Desktop\schoolmangement\SchoolManagement.Data\obj\Debug\net11.0\SchoolMa.0F25EF65.Up2Date
